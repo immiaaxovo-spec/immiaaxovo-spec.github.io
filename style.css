@@ -1,5 +1,5 @@
 body {
-    background-color: #00C853; /* 浅粉色 */
+    background-color: #98FF98; /* 浅粉色 */
     text-align: center;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -38,12 +38,12 @@ button {
 }
 
 #yes {
-    background-color: #d4818e; /* 粉色 */
+    background-color: #4CAF50; /* 粉色 */
     color: white;
 }
 
 #no {
-    background-color: #6784b1; /* 蓝色 */
+    background-color: #E53935; /* 蓝色 */
     color: white;
     position: relative;
 }
@@ -106,4 +106,5 @@ button {
         width: 300px; /* 固定图片宽度 */
     }
 }
+
 
